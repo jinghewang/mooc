@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mooc:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mooc_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mooc/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mooc" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
